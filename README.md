@@ -1,1 +1,3 @@
 # p2_API_IGME340
+
+PROJECT FILES LOCATED IN THE "lib" folder
